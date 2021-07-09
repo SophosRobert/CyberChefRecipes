@@ -1,0 +1,3 @@
+Regular_expression('User defined','srcip=(?:(?:\\d|[01]?\\d\\d|2[0-4]\\d|25[0-5])\\.){3}(?:25[0-5]|2[0-4]\\d|[01]?\\d\\d|\\d)(?:\\/\\d{1,2})?',true,true,false,false,false,false,'List matches')
+Regular_expression('User defined','dstip=(?:(?:\\d|[01]?\\d\\d|2[0-4]\\d|25[0-5])\\.){3}(?:25[0-5]|2[0-4]\\d|[01]?\\d\\d|\\d)(?:\\/\\d{1,2})?',true,true,false,false,false,false,'List matches')
+Regular_expression('IPv4 address','(?:(?:\\d|[01]?\\d\\d|2[0-4]\\d|25[0-5])\\.){3}(?:25[0-5]|2[0-4]\\d|[01]?\\d\\d|\\d)(?:\\/\\d{1,2})?',true,true,false,false,false,false,'List matches')
