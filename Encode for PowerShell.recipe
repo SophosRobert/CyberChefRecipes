@@ -1,0 +1,3 @@
+Encode_text('UTF-16LE (1200)')
+To_Base64('A-Za-z0-9+/=')
+Pad_lines('Start',33,'powershell.exe -exec bypass -enc ')
