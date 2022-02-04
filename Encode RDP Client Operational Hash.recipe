@@ -1,0 +1,4 @@
+To_Hex('Space',0)
+Remove_whitespace(true,true,true,true,true,false)
+Pad_lines('End',4,' 0')
+Remove_whitespace(true,true,true,true,true,false)
